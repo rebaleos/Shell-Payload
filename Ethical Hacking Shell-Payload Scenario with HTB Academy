@@ -1,0 +1,23 @@
+Title: Ethical Hacking Shell-Payload Scenario with HTB Academy
+
+Introduction:
+Welcome to the live engagement of the Ethical Hacking scenario where practical skills acquired from the HTB Academy will be put to the test. This engagement focuses on demonstrating expertise in crafting and delivering payloads, obtaining and interacting with shells on both Windows and Linux systems, and mastering the art of taking control over web applications. As part of CAT5's team, your mission is to leverage the secured network access into Inlanefrieght and complete a series of objectives outlined below.
+
+Scenario:
+CAT5's team has successfully gained a foothold within Inlanefrieght's network. Your primary responsibility involves analyzing the reconnaissance results, validating pertinent information, conducting further research, and strategically selecting the most suitable exploits, payloads, and shells to exert control over the designated targets. The engagement unfolds in a series of steps, with action required either through a VPN connection or from your designated Pwnbox. Your tasks include RDPing into the foothold host and executing necessary actions from this point onwards. Essential credentials, IP addresses, and other relevant information have been provided to facilitate your progress.
+
+Objectives:
+1. Demonstrating Windows Shell Exploitation:
+   Showcase your proficiency in exploiting vulnerabilities within Windows hosts or servers. Successfully obtain an interactive shell on a Windows target and illustrate your control over the compromised system.
+
+2. Displaying Linux Shell Exploitation:
+   Highlight your capability to exploit vulnerabilities present in Linux hosts or servers. Attain an interactive shell on a Linux target and provide evidence of your ability to manipulate the compromised environment.
+
+3. Mastering Web Application Shell Exploitation:
+   Exhibit your adeptness in exploiting web application vulnerabilities. Acquire an interactive shell through a targeted web application, effectively showcasing your prowess in navigating and controlling such environments.
+
+4. Identifying User Shell Environment:
+   Demonstrate your expertise by accurately identifying the shell environment accessible to you as a user on the victim host. Showcase your understanding of the compromised system's characteristics and limitations.
+
+Conclusion:
+This practical scenario is designed to challenge and validate your ethical hacking skills gained from HTB Academy. By successfully completing the outlined objectives, you will showcase your proficiency in exploiting vulnerabilities, manipulating shell environments, and gaining control over systems and web applications. Best of luck as you embark on this engaging journey to demonstrate your practical prowess in the realm of ethical hacking.
